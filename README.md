@@ -17,4 +17,4 @@ Some Challeges I faced while coverting the date from linus to human date and cre
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date? Plays launched in the summer/spring months had a greater chance of success than plays launched during the winter months. 
+- What are two conclusions you can draw about the Outcomes based on Launch Date? Plays launched in the summer/spring months had a greater chance of success than plays launched during the winter months. Months April, May, June, July and August had the most successful outcomes, May being the most successful with 111 successful projects. It seems based on from the data provided from Kickstarter backers were likely to donate during the spring and summmer months regardless of country. Its possible that during the winter months they are less likely to donate because its the holiday season. 
