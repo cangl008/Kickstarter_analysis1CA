@@ -14,3 +14,7 @@ Using the Countifs function I was able to determine the percentage of successful
 
 ### Challenges and Difficulties Encountered
 Some Challeges I faced while coverting the date from linus to human date and creating the years colums was somehow empty data cells were created. When I created my pivot table and turned that in to a line graph I had a fifth line on my line graph. To fix it I went back to my original kickstarter datasheet and had to re-calculate the human date and year columns. using the countifs was tricky, my outcomes based on goals graph was showing data out of order and i had to manually move the goal column amount to their correct place (least to greatest). Also one of the values in the counifs function was incorrect throwing off all the values. I went row by row correcting the incorrect variable.  
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date? Plays launched in the summer/spring months had a greater chance of success than plays launched during the winter months. 
