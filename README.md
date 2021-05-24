@@ -12,5 +12,5 @@ Pulling information from the kickstarter I created a line graph that clearly sho
 Using the Countifs function I was able to determine the percentage of successful, failed and canceled campaigns over the course of 7 year (2010 to 2017). By creating a line graph we can see that campagins whose gaols were 24999 or less were more likely to be sucessful. The most successful campaign was when goals were less $1000, with a total of 186 projects 76% of them were suceesful. Projects with a goal of $40000 were more like to fail, between $40000 to $49000 100% of projects failed and projects with a goal of $50000 failed 83% during the 7 years this data was collected. 
 [github pages](resources/Outcomes based on goals.png)
 
-###Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 Some Challeges I faced while coverting the date from linus to human date and creating the years colums was somehow empty data cells were created. When I created my pivot table and turned that in to a line graph I had a fifth line on my line graph. To fix it I went back to my original kickstarter datasheet and had to re-calculate the human date and year columns. 
